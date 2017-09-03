@@ -1,0 +1,23 @@
+1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+	* Variables
+	* Strings
+	* Functions (arguments, `return`)
+	* `if` statements
+	* Boolean values (`true`, `false`)
+	
+Variables
+     A variable is a name that represents some kind of information. Some are only delared and used inside of functions and some are declared and seen all throughout your code.
+     
+Strings
+    Strings are almost any kind of text within quotation marks. The quotes can be " or ' and they can even be empty.
+
+Functions
+    Functions are used to repeat a task over and over again. Some functions have arguments which are like variables that you can put in to the function and change the outcome of the function. At the end of a function you can return what the function did to wherever you had called the function.
+    
+'if' statements
+    These statements are a Javascript way of saying if something is one way, then do a specific thing. If it's not that
+    way then you can tell it to do something else or have it do nothing. It's creating a cause and effect scenario.
+    
+Boolean Values
+	Boolean values are always true or false. Never anything else. Similar to how computers process with 1's and 0's.
